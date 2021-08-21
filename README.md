@@ -9,6 +9,7 @@ I used the following IDE to get started:
 https://www.openstm32.org/Installing%2BSystem%2BWorkbench%2Bfor%2BSTM32
 
 
+![UVA_Solar_Car_PNG](https://user-images.githubusercontent.com/28467603/130332037-d7fa6535-9ffc-4503-847f-acbe995dec9a.png)
 
 
 
